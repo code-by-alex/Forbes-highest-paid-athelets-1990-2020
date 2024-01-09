@@ -1,0 +1,12 @@
+-- Executive Summary:
+
+-- Upon a detailed examination of the Forbes Richest Athletes dataset spanning from 1990 to 2020, several compelling insights emerged. Notably, the dataset revealed a consistent upward trajectory in overall athlete earnings over the years. In 1990, the cumulative earnings stood at $129 million, escalating to an impressive $941 million in 2020. This financial growth can be attributed to factors such as inflation, the surge in sports popularity, and increased accessibility for fans through various media channels.
+
+-- Further analysis categorized earnings by sport, with the National Basketball League (NBA) athletes leading the pack with a staggering $3.43 billion over the 1990–2020 period. Boxing, soccer, and golf followed closely, each surpassing $2 billion, while cycling recorded the lowest athlete earnings at $28 million.
+
+-- The exploration extended to identify the top 10 earning athletes during the specified timeframe, with Tiger Woods emerging as the frontrunner, amassing a remarkable $1.3 billion. Lebron James and Floyd Mayweather secured second and third positions, respectively, with earnings nearing $840 million. Phil Mickelson claimed the tenth spot with $519 million in total earnings.
+
+-- Examining athlete nationalities unveiled a dominance of representation from the United States, totaling 206 athletes (counting repeats). The United Kingdom and Germany held the second position, each contributing 13 athletes to the list.
+
+
+-- In conclusion, the Forbes Richest Athletes dataset from 1990 to 2020 paints a vivid picture of the evolution of athlete earnings over the years. The consistent upward trend in total earnings reflects the growing influence and commercialization of sports globally. Noteworthy performances by athletes from various sports, with Tiger Woods at the pinnacle, underscore the diverse avenues through which athletes amass wealth. The prevalence of U.S. athletes in the upper echelons of earnings showcases the nation's strong presence in the sports industry. This comprehensive analysis provides valuable insights into the financial landscape of athletes over the past three decades.
